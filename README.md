@@ -103,4 +103,4 @@ As a data analyst, your goal is to make data meaningful. You take raw data, anal
 
 ### [Final Presention Slides](https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/NY%20Citi%20Bike%20Analysis.pdf)
 
-<image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Storry%20Telling%20.png" >
+<image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Story%20Telling%20.png" >
