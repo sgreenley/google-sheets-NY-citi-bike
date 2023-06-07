@@ -96,7 +96,7 @@ With the use of pivot tables we can quickly find the ansers to the business ques
 **Key Finding:** Scatter Plot dos not show any notable correlation between users age and how long they ride for. 
 ***
 
-## **StoryTelling **
+## **StoryTelling**
 
 As a data analyst, your goal is to make data meaningful. You take raw data, analyze it, and draw out insights that can have a real-world impact. When you uncover these insights, it’s your job to communicate them in a way that means something. You need others to not only understand your findings, but to care about and act upon them. You do this by building a narrative or a story around your data 📚
 
