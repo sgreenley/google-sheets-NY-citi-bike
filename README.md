@@ -70,15 +70,15 @@ With the use of pivot tables we can quickly find the ansers to the business ques
 
 Data visualization (or data viz) is all about presenting data in a visual format—such as a graph, chart, or map.
 
-To show some visual charts to make the data stand out in a easy to see format. Here a horizontal bar chart was selected to easly show the difference between the top pick-up station  
+To show some visual charts to make the data stand out in a easy to see format. Here a horizontal bar chart was selected to easly show the difference between the top pick-up station.
 
-<image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Graph%20top.png" >
+<image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Graph%20top%20.png" >
 
-We already summarized the relevant data with a pivot table in tutorial three, so now we’re going to visualize it using a column chart
+We already summarized the relevant data with a pivot table in tutorial three, so now we’re going to visualize it using a column chart.
 
 <image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Graph%20Dur.png" >
 
- create another bar chart, this time with the count of bikes rented per age group 
+ create another bar chart, this time with the count of bikes rented per age group. 
 
  <image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Graph%20Num.png" >
 
