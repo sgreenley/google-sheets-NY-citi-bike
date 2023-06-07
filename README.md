@@ -4,7 +4,7 @@
 
  Citi Bike is the largest bike-share program in the United States, with 20,000 bikes and over 1,300 pick-up stations across Manhattan, Brooklyn, Queens, the Bronx, and Jersey City. As stated on their website, the service was designed for quick trips with convenience in mind, offering a fun and affordable way to get around town. Users can sign up for annual membership, or buy a short-term pass through the Citi Bike app. Once they’ve joined, they simply locate a nearby bike, ride around as they please, and return it to a nearby station once they’re done 
 
-### [Final Presention Slides]()
+### [Final Presention Slides](https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/NY%20Citi%20Bike%20Analysis.pdf)
 
 ***
 
@@ -95,4 +95,10 @@ With the use of pivot tables we can quickly find the ansers to the business ques
 
 **Key Finding:** Scatter Plot dos not show any notable correlation between users age and how long they ride for. 
 
-**Key Finding:** 75+ age group took the longest trips.
+## **StoryTelling **
+
+As a data analyst, your goal is to make data meaningful. You take raw data, analyze it, and draw out insights that can have a real-world impact. When you uncover these insights, it’s your job to communicate them in a way that means something. You need others to not only understand your findings, but to care about and act upon them. You do this by building a narrative or a story around your data 📚
+
+<image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Gaph%20Scat.png" >
+
+### [Final Presention Slides](https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/NY%20Citi%20Bike%20Analysis.pdf)
