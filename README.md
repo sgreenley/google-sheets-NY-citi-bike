@@ -89,7 +89,7 @@ We already summarized the relevant data with a pivot table, in presenting as a v
 
 Does user age impact the average bike trip duration? As already mentioned, we’ll be looking at the relationship between different variables. I will create a scatter plot, plotting trip duration vs age. 
 
-<image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Graph%20Scat.png" >
+<image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Gaph%20Scat.png" >
 
 With the use of pivot tables we can quickly find the ansers to the business questions.
 
