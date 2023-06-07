@@ -20,7 +20,7 @@ Your mission is to analyze data collected by Citi Bike and help key stakeholders
 ### Data Cleaning 
 
 Here is a visual of the source data set before cleaning 
-<image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Ny%20unclean.png" width="700" height="500">
+<image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Ny%20unclean.png" >
 
 We’ve established how important the data cleaning stage is. To clean the data, I completed the following: 
 ### Analysis 
