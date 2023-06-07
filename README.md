@@ -6,6 +6,7 @@
 
 ### [Final Presention Slides]()
 
+***
 
 **Assigment**
 
@@ -16,7 +17,7 @@ Your mission is to analyze data collected by Citi Bike and help key stakeholders
  3. Which age group rents the most bikes?
  4. How does bike rental vary across the two user groups (one-time users vs long-term subscribers) on different days of the week?
  5. Does user age impact the average bike trip duration?
-
+***
 ## **Data Cleaning** 
 
 Here is a visual of the source data set before cleaning 
@@ -29,7 +30,7 @@ We’ve established how important the data cleaning stage is. To clean the data,
 - Deal with missing data **3 rows removed** 
 - Remove Outliers
 - Fix inconsistences **Multiple Speeling and formatting changes**
-
+***
 
 ## **Analysis** 
 Before you start conducting in-depth analysis, it’s important to first get acquainted with your dataset—to get the “lay of the land,” if you will. This is where exploratory data analysis comes in.
@@ -65,23 +66,33 @@ With the use of pivot tables we can quickly find the ansers to the business ques
 **Key Finding:**  35-44 year old rent the most bikes
 
 **Key Finding:**  Most NY Citi Bike users are long-term subscribers. 
-
+***
 ## **Data Visualization**
 
 Data visualization (or data viz) is all about presenting data in a visual format—such as a graph, chart, or map.
 
-To show some visual charts to make the data stand out in a easy to see format. Here a horizontal bar chart was selected to easly show the difference between the top pick-up station.
+To show some visual charts to make the data stand out in a easy to see format. Here a horizontal bar chart was selected to easly show the difference between the top pick-up station. 
 
 <image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Graph%20top%20.png" >
 
-We already summarized the relevant data with a pivot table in tutorial three, so now we’re going to visualize it using a column chart.
+We already summarized the relevant data with a pivot table, in presenting as a visual it is easy to see that 75+ has the longest duration. 
 
 <image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Graph%20Dur.png" >
 
- create another bar chart, this time with the count of bikes rented per age group. 
+ Created another bar chart, this time with the count of bikes rented per age group. It is easy to see that the 35-44 group is the most dominate group. 
 
  <image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Graph%20Num.png" >
 
- Here is a Double chart that highlights the differnce between people who rented the bikes. 
+ Here is a Double chart that highlights the differnce between people who rented the bikes. There is data in the table for one time users , it is hard to see. 
 
  <image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Graph%20Rent.png" >
+
+Does user age impact the average bike trip duration? As already mentioned, we’ll be looking at the relationship between different variables. I will create a scatter plot, plotting trip duration vs age. 
+
+<image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Graph%20Scat.png" >
+
+With the use of pivot tables we can quickly find the ansers to the business questions.
+
+**Key Finding:** Scatter Plot dos not show any notable correlation between users age and how long they ride for. 
+
+**Key Finding:** 75+ age group took the longest trips.
