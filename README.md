@@ -36,15 +36,15 @@ Before you start conducting in-depth analysis, it’s important to first get acq
 
 ### Descriptive statistics 
 
-Calculating a basic table for Mean, Median,Min and Max on Trip Duration and User age. 
+Calculating a basic table for Mean, Median,Min and Max on Trip Duration and User age. As we can see the maximum in trip duration has an outlier. 
 
 <image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Desc%20Stat.png" >
 
-Top 20 pick-up locations, sorted by the data by count, in descending order.
+Top 20 pick-up locations, sorted by the data by count, in descending orderusing a pivot table. This chart gives us the top 3 spots, Grove St Path, Exchange Placeand Sip ave. 
 
 <image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Desc%20Count.png" >
 
-Explore how the average trip duration varies across different age groups
+Explore how the average trip duration varies across different age groups again using a pivot table. In review the 75+ age group has the highest duration, but that might be scewed to and needs further analysis. 
 
 <image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Desc%20Dur.png" >
 
@@ -56,4 +56,32 @@ How does bike rental vary across the two user groups (one-time users vs long-ter
 
 <image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Desc%20Sub.png" >
 
+With the use of pivot tables we can quickly find the ansers to the business questions.
+
+**Key Finding:** Grove St Path is the most popular pick up place.
+
+**Key Finding:** 75+ age group took the longest trips.
+
+**Key Finding:**  35-44 year old rent the most bikes
+
+**Key Finding:**  Most NY Citi Bike users are long-term subscribers. 
+
 ## **Data Visualization**
+
+Data visualization (or data viz) is all about presenting data in a visual format—such as a graph, chart, or map.
+
+To show some visual charts to make the data stand out in a easy to see format. Here a horizontal bar chart was selected to easly show the difference between the top pick-up station  
+
+<image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Graph%20top.png" >
+
+We already summarized the relevant data with a pivot table in tutorial three, so now we’re going to visualize it using a column chart
+
+<image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Graph%20Dur.png" >
+
+ create another bar chart, this time with the count of bikes rented per age group 
+
+ <image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Graph%20Num.png" >
+
+ Here is a Double chart that highlights the differnce between people who rented the bikes. 
+
+ <image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Graph%20Rent.png" >
