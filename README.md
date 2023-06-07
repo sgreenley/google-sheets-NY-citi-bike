@@ -20,6 +20,7 @@ Your mission is to analyze data collected by Citi Bike and help key stakeholders
 ## **Data Cleaning** 
 
 Here is a visual of the source data set before cleaning 
+
 <image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Ny%20unclean.png" >
 
 We’ve established how important the data cleaning stage is. To clean the data, I completed the following: 
@@ -33,9 +34,26 @@ We’ve established how important the data cleaning stage is. To clean the data,
 ## **Analysis** 
 Before you start conducting in-depth analysis, it’s important to first get acquainted with your dataset—to get the “lay of the land,” if you will. This is where exploratory data analysis comes in.
 
-Descriptive statistics 
+### Descriptive statistics 
 
 Calculating a basic table for Mean, Median,Min and Max on Trip Duration and User age. 
+
 <image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Desc%20Stat.png" >
+
+Top 20 pick-up locations, sorted by the data by count, in descending order.
+
+<image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Desc%20Count.png" >
+
+Explore how the average trip duration varies across different age groups
+
+<image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Desc%20Dur.png" >
+
+Based on one of the pivot tables we created previously(average trip duration per age group), you might jump to the conclusion that the 75+ age group makes up the biggest segment of our NY Citi Bike customer base. Which age group rents the most bikes? 
+
+<image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Desc%20Most.png" >
+
+How does bike rental vary across the two user groups (one-time users vs long-term subscribers) on different days of the week? 
+
+<image src="https://github.com/sgreenley/google-sheets-NY-citi-bike/blob/main/assets/Desc%20Sub.png" >
 
 ## **Data Visualization**
